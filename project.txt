@@ -4,4 +4,6 @@ Fixed Bug 1 -- Bruce
 Feature 3
 Feature 3.2 -- Bruce
 Bug 2
-Featue 4 -- Bruce
+Feature 4 -- Bruce
+Feature 8 -- Bruce
+
