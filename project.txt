@@ -1,2 +1,4 @@
 Feature 1
+Feature 2
+Bug 1
 
