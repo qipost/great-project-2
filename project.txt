@@ -1,6 +1,6 @@
 Feature 1
 Feature 2
-Bug 1
+Fixed Bug 1 -- Bruce
 Feature 3
 Feature 3.3
 Bug 2
