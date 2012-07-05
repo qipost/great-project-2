@@ -2,7 +2,8 @@ Feature 1
 Feature 2
 Fixed Bug 1 -- Bruce
 Feature 3
+Feature 3.2 -- Bruce
 Feature 3.3
 Bug 2
-Feature 5
 Featue 4 -- Bruce
+Feature 5
