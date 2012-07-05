@@ -9,3 +9,5 @@ Feature 4 -- Bruce
 Feature 5
 Feature 8 -- Bruce
 Feature 9 -- Bruce
+Bug 3
+Bug 4
