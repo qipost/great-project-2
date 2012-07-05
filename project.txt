@@ -8,3 +8,4 @@ Bug 2
 Feature 4 -- Bruce
 Feature 5
 Feature 8 -- Bruce
+Feature 9 -- Bruce
