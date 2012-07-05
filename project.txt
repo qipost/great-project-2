@@ -5,5 +5,6 @@ Feature 3
 Feature 3.2 -- Bruce
 Feature 3.3
 Bug 2
-Featue 4 -- Bruce
+Feature 4 -- Bruce
 Feature 5
+Feature 8 -- Bruce
